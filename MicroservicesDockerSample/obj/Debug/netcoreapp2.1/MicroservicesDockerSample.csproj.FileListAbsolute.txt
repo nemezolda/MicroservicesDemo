@@ -1,0 +1,15 @@
+C:\Users\ptkach\source\repos\MicroservicesDockerSample\obj\Debug\netcoreapp2.1\MicroservicesDockerSample.csproj.CoreCompileInputs.cache
+C:\Users\ptkach\source\repos\MicroservicesDockerSample\obj\Debug\netcoreapp2.1\MicroservicesDockerSample.AssemblyInfoInputs.cache
+C:\Users\ptkach\source\repos\MicroservicesDockerSample\obj\Debug\netcoreapp2.1\MicroservicesDockerSample.AssemblyInfo.cs
+C:\Users\ptkach\source\repos\MicroservicesDockerSample\bin\Debug\netcoreapp2.1\MicroservicesDockerSample.deps.json
+C:\Users\ptkach\source\repos\MicroservicesDockerSample\bin\Debug\netcoreapp2.1\MicroservicesDockerSample.runtimeconfig.json
+C:\Users\ptkach\source\repos\MicroservicesDockerSample\bin\Debug\netcoreapp2.1\MicroservicesDockerSample.runtimeconfig.dev.json
+C:\Users\ptkach\source\repos\MicroservicesDockerSample\bin\Debug\netcoreapp2.1\MicroservicesDockerSample.dll
+C:\Users\ptkach\source\repos\MicroservicesDockerSample\bin\Debug\netcoreapp2.1\MicroservicesDockerSample.pdb
+C:\Users\ptkach\source\repos\MicroservicesDockerSample\obj\Debug\netcoreapp2.1\MicroservicesDockerSample.RazorAssemblyInfo.cache
+C:\Users\ptkach\source\repos\MicroservicesDockerSample\obj\Debug\netcoreapp2.1\MicroservicesDockerSample.RazorAssemblyInfo.cs
+C:\Users\ptkach\source\repos\MicroservicesDockerSample\obj\Debug\netcoreapp2.1\MicroservicesDockerSample.RazorTargetAssemblyInfo.cache
+C:\Users\ptkach\source\repos\MicroservicesDockerSample\obj\Debug\netcoreapp2.1\MicroservicesDockerSample.dll
+C:\Users\ptkach\source\repos\MicroservicesDockerSample\obj\Debug\netcoreapp2.1\MicroservicesDockerSample.pdb
+C:\Users\ptkach\source\repos\MicroservicesDockerSample\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\ptkach\source\repos\MicroservicesDockerSample\obj\Debug\netcoreapp2.1\MicroservicesDockerSample.csprojAssemblyReference.cache
